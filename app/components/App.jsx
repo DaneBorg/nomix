@@ -1,3 +1,5 @@
+// *** rewrite this app to use functional components *** !
+
 const React = require("react");
 const axios = require("axios");
 
